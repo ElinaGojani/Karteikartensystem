@@ -1,0 +1,46 @@
+from tkinter import *
+import tkinter.font as font
+
+#Fenster "Hinzufügen erstellen"
+master = Tk()
+master.title('Hinzufügen')
+#Hintergrundfarbe von "Hinzufügen" oliv
+master.configure(bg='olive')
+#Eingabefelder
+e1 = Entry(master, width=40, bg='darkgrey', fg='white',borderwidth=7)
+e2 = Entry(master, width=40, bg='darkgrey', fg='white',borderwidth=7)
+e1.grid(row=0, column=4)
+e2.grid(row=1, column=1)
+
+#Schriftart, Schriftgröße, und Breite
+myFont = font.Font(size=10, weight="bold",family="Helvetica")
+
+#platzhalter für datenbank
+mylist=[]
+
+#Funktion beim Klicken
+def myclick(mylist):
+    mylist.append((e1.get(),e2.get()))
+
+#Buttons hinzufügen
+#Button zum eingeben der Frage
+HinzufügenButton=Button(master, text='Gebe hier bitte deine Frage ein', bg='darkgrey', fg='white', height=10, width=35,font = myFont, command=myclick(mylist) ).grid(row=0, column=1)
+#Button zum eingeben der Antwort
+AntwortButton=Button(master, text='Hier ist Platz für die passende Antwort', bg='darkgrey', fg='white', height=10, width=35,font = myFont, command=myclick(mylist)).grid(row=1, column=4)
+
+#Button zum Hinzufügen
+Hinzufuegen_Button=Button(master, text='Frage und Antwort\n Hinzufügen', bg='darkgrey', fg='white', height=10, width=35,font = myFont,command=myclick(mylist) ).grid(row=3, column=3)
+
+
+
+
+
+
+
+
+
+
+
+mainloop()
+
+
