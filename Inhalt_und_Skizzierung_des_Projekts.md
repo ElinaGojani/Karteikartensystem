@@ -3,8 +3,7 @@ Mit unserem Projekt soll man erfolgreich Mathe in Form von gezielten Abfragen au
 
 
 # Programmseiten 
-**-Bei Ausführung der Main ("probemain.py") soll jede beliebe andere Seite ausführbar sein** 
-
+**-Bei Ausführung der Main ("probemain.py") soll jede beliebe andere Seite ausführbar sein** <br>
 **-Die File "probemain.py" selbst, hat keine Benutzeroberfläche** <br>
 Main:
 https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/probemain.py <br>
@@ -21,9 +20,9 @@ https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Lernen.py <br>
 
 
 # Grundkonzept der Seite
-**-Jede Seite, die ausgegeben wird, soll das gleiche Ikon haben, sowie einen eindeutigen Titel.** 
-Ikon*: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/hand-page01.ico
-**-die .png-Datei wurde mit Hilfe des Pixillion Bildkonverter zu .ico konvertiert** 
+**-Jede Seite, die ausgegeben wird, soll das gleiche Ikon haben, sowie einen eindeutigen Titel.** <br>
+Ikon*: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/hand-page01.ico <br>
+**-die .png-Datei wurde mit Hilfe des Pixillion Bildkonverter zu .ico konvertiert** <br>
 ## *Quelle:https://cdn-icons-png.flaticon.com/128/2883/2883891.png
 
 
