@@ -67,7 +67,7 @@ Aussehen:
 Vorstellung:
 ![Unbenanntes Notizbuch (6)-7](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/597a82c3-259d-49bb-a89a-96d11276130e)
 
-Aussehen:
+Aussehen: <br>
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/b3b03c9c-cdef-4244-b23b-c96f9573b118)
 
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/f7a10b5d-dae6-4f14-ae25-477d15cb660b)
