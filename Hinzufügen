@@ -1,3 +1,6 @@
+#lässt sich nicht löschen 
+#bitte Version "Hinzufügen.py" benutzen
+
 from tkinter import *
 import tkinter.font as font
 
