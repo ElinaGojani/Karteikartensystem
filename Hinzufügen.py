@@ -42,14 +42,14 @@ def speichereDieKarte():
     entry_antwort.delete(1.0, tkinter.END)
     entry_frage.delete(1.0, tkinter.END)
 
-#Funktion zum speichern von key und value im "text_dict" (Dictionary)
+# Funktion zum speichern von key und value im "text_dict" (Dictionary)
 def speichern():
-    #"Datenbank.txt" öffnen und Inhalt löschen oder Datei erstellen
+    # "Datenbank.txt" öffnen und Inhalt löschen oder Datei erstellen
     with open("Datenbank.txt", "w") as file:
         for key in text_dict.keys():
-            #prüft ob key und value leer sind
+            # prüft ob key und value leer sind
             if key and text_dict[key]:
-                #schreibt key und value in "Datenbank.txt", wenn sie nicht leer sind
+                # schreibt key und value in "Datenbank.txt", wenn sie nicht leer sind
                 file.write(f"{key}{text_dict[key]}")
 
 
