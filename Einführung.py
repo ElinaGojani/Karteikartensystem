@@ -14,7 +14,7 @@ def ClickForum1():
 einfuehrungsseite = Tk()
 einfuehrungsseite.title('Einführung')
 
-# Ikon hinzufügen (auskommentiert)
+# Ikon hinzufügen 
 einfuehrungsseite.iconbitmap("hand-page01.ico")
 
 # Hintergrundfarbe von "Hinzufügen" auf oliv setzen
