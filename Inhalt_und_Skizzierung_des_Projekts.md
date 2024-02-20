@@ -33,22 +33,29 @@ Aussehen:
 
 # Forum:
 Vorstellung:
+![Unbenanntes Notizbuch (6)-4](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/fd5a1449-20f4-4e70-8a53-aba18e9b0fc9)
 
 Aussehen:
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/baa78c7c-ebac-4d14-b069-a70b043debac)
 
 # Einführung:
 Vorstellung:
+![Unbenanntes Notizbuch (6)-5](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/aaaf4e4c-5a46-4fe6-abf7-fe9812828aa1)
+
 Aussehen:
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/ec9ae81d-7144-4aaf-80f7-715041fadcd9)
 
 # Hinzufügen:
 Vorstellung:
+![Unbenanntes Notizbuch (6)-6](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/ba8aa6cf-c9d2-44e7-bcd0-75ce3c45e5d2)
+
 Aussehen:
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/46c7f37b-89d5-468c-bd1c-d8c763254478)
 
 # Lernen:
 Vorstellung:
+![Unbenanntes Notizbuch (6)-7](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/597a82c3-259d-49bb-a89a-96d11276130e)
+
 Aussehen:
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/b3b03c9c-cdef-4244-b23b-c96f9573b118)
 
