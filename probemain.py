@@ -20,7 +20,7 @@ def execute_titelseite():
         # Öffnet Forumseite.py
         subprocess.Popen(["python", "Forumseite.py"])
         
-    #Aussgabe zur Fehlerbehebung
+    # Aussgabe zur Fehlerbehebung
     except FileNotFoundError:
         print("Error: Make sure Titelseite.py and Forumseite.py exist in the same directory.")
 
