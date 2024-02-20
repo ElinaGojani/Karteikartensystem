@@ -32,12 +32,14 @@ Ikon*: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/hand-page0
 ![Grundkonzept_Seite](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/19e8ad93-6b77-4842-a40e-628170f26ad9)
 
 # Titelseite:
+**-nach 3 Sekunden soll die Titelseite schließen und die Forumsseite öffnen** <br>
 Vorstellung:
 ![Unbenanntes Notizbuch (6)-3](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/8c561f02-4a61-4628-8903-5967c3be693c)
 Aussehen:
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/2fbd0839-d138-4cab-8d2e-839848519b44)
 
 # Forum:
+**-per Klick auf einen der vier Buttons soll sich die jeweilige Seite öffnen, während die Forumsseite schließt** <br>
 Vorstellung:
 ![Unbenanntes Notizbuch (6)-4](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/fd5a1449-20f4-4e70-8a53-aba18e9b0fc9)
 
@@ -45,13 +47,16 @@ Aussehen:
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/baa78c7c-ebac-4d14-b069-a70b043debac)
 
 # Einführung:
+**-mit Klick auf den Button "Zurück zum Forum" kommt man in das Forum** <br>
 Vorstellung:
 ![Unbenanntes Notizbuch (6)-5](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/aaaf4e4c-5a46-4fe6-abf7-fe9812828aa1)
-
+(*Infos, die zu der Bedienung benötigt werden )
 Aussehen:
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/ec9ae81d-7144-4aaf-80f7-715041fadcd9)
 
 # Hinzufügen:
+**-per Klick auf den Button "Hinzufügen" werden Frage und Antwort als "value" und "key" gespeichert** <br>
+**-mit Klick auf den Button "Zurück zum Forum" kommt man in das Forum** <br>
 Vorstellung:
 ![Unbenanntes Notizbuch (6)-6](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/ba8aa6cf-c9d2-44e7-bcd0-75ce3c45e5d2)
 
