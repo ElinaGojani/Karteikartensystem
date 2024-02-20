@@ -1,0 +1,21 @@
+# Inhalt
+##Mit unserem Projekt soll man erfolgreich Mathe in Form von gezielten Abfragen auf Karteikarten lernen. Wir geben ein paar Fragen zum Thema "Lineare Algebra" vor, diese können jederzeit erweitert werden.   
+
+# Programmseiten 
+##-Bei Ausführung der Main ("probemain.py") soll jede beliebe andere Seite ausführbar sein
+##-Die File "probemain.py" selbst, hat keine Benutzeroberfläche
+##Main: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/probemain.py
+##Titelseite: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Titelseite.py
+##Einführung: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Einf%C3%BChrung.py
+##Forum: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Forumseite.py
+##Hinzufügen: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Hinzuf%C3%BCgen.py
+##Lernen: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Lernen.py
+
+# Grundkonzept der Seite
+##-Jede Seite, die ausgegeben wird, soll das gleiche Ikon haben, sowie einen eindeutigen Titel. 
+##Ikon*: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/hand-page01.ico
+##-die .png-Datei wurde mit Hilfe des Pixillion Bildkonverter zu .ico konvertiert 
+*Quelle:https://cdn-icons-png.flaticon.com/128/2883/2883891.png
+
+
+# Skizzierung des Karteikartensystems (Stand: 19.02.2024)
