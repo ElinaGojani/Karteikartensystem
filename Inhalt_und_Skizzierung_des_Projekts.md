@@ -23,7 +23,7 @@ https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Lernen.py <br>
 **-Jede Seite, die ausgegeben wird, soll das gleiche Ikon haben, sowie einen eindeutigen Titel.** <br>
 Ikon*: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/hand-page01.ico <br>
 **-die .png-Datei wurde mit Hilfe des Pixillion Bildkonverter zu .ico konvertiert** <br>
-## *Quelle:https://cdn-icons-png.flaticon.com/128/2883/2883891.png
+*Quelle:https://cdn-icons-png.flaticon.com/128/2883/2883891.png
 
 
 # Skizzierung des Karteikartensystems (Stand: 19.02.2024)
