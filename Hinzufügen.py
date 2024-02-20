@@ -32,22 +32,29 @@ text_dict = {}
 
 # Funktion beim Klicken
 def speichereDieKarte():
+    #liest das "entry_frage" aus und speichert den Text in "text_key"
     text_key = entry_frage.get("1.0", tkinter.END)
+    #liest das "entry_antwort" aus und speichert den Text in "text_value"
     text_value = entry_antwort.get("1.0", tkinter.END)
+    #key und value dem Dictionary anfügen
     text_dict[text_key] = text_value
+    #Text aus den Eingabefeldern löschen
     entry_antwort.delete(1.0, tkinter.END)
     entry_frage.delete(1.0, tkinter.END)
 
-
+#Funktion zum speichern von key und value im "text_dict" (Dictionary)
 def speichern():
+    #"Datenbank.txt" öffnen und Inhalt löschen oder Datei erstellen
     with open("Datenbank.txt", "w") as file:
         for key in text_dict.keys():
+            #prüft ob key und value leer sind
             if key and text_dict[key]:
+                #schreibt key und value in "Datenbank.txt", wenn sie nicht leer sind
                 file.write(f"{key}{text_dict[key]}")
 
 
 def ClickForum():
-    # Hier öffnen wir die "einführung.py" Datei mit subprocess
+    # Hier öffnen wir die "Forumseite.py" Datei mit subprocess und schließen "Hinzufügen.py"
     subprocess.Popen(["python", "Forumseite.py"])
     speichern()
     master.destroy()
