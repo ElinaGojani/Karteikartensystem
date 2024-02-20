@@ -5,15 +5,18 @@ import subprocess
 
 class FragenAntwortenApp:
     def __init__(self, master):
+        # Abfragen laden und Index der Frage auf 0 setzen
         self.master = master
         self.master.title("Fragen und Antworten")
         self.frage_antwort_liste = self.lade_fragen_antworten()
         self.aktuelle_frage_index = 0
 
+        # bestimmt Hintergrundfarbe, Ikon und Schriftart
         self.master.configure(bg='olive')
         self.master.iconbitmap("hand-page01.ico")
         self.myFont = font.Font(size=10, weight="bold", family="Helvetica")
 
+        # Frage Label
         self.frage_label = tk.Label(master, text="Frage:", bg="olive")
         self.frage_label.grid(row=0, column=0, padx=10, pady=10)
 
