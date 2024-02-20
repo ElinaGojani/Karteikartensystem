@@ -31,6 +31,29 @@
 ##Aussehen:
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/2fbd0839-d138-4cab-8d2e-839848519b44)
 
+#Forum:
+##Vorstellung:
 
+##Aussehen:
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/baa78c7c-ebac-4d14-b069-a70b043debac)
+
+#Einführung:
+##Vorstellung:
+##Aussehen:
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/ec9ae81d-7144-4aaf-80f7-715041fadcd9)
+
+#Hinzufügen:
+##Vorstellung:
+##Aussehen:
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/46c7f37b-89d5-468c-bd1c-d8c763254478)
+
+#Lernen:
+##Vorstellung:
+##Aussehen:
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/b3b03c9c-cdef-4244-b23b-c96f9573b118)
+
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/f7a10b5d-dae6-4f14-ae25-477d15cb660b)
+
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/8f3ba53c-5a30-4c72-a62b-21bfb27c8d9c)
 
 
