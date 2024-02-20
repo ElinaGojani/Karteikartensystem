@@ -23,7 +23,7 @@ Ikon*: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/hand-page0
 
 # Skizzierung des Karteikartensystems (Stand: 19.02.2024)
 
-# Grundkonzept der Seite:
+ -Grundkonzept der Seite:
 ![Grundkonzept_Seite](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/19e8ad93-6b77-4842-a40e-628170f26ad9)
 
 # Titelseite:
