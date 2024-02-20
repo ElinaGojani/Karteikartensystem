@@ -7,11 +7,11 @@ Mit unserem Projekt soll man erfolgreich Mathe in Form von gezielten Abfragen au
 
 **-Die File "probemain.py" selbst, hat keine Benutzeroberfläche** <br>
 Main:
-https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/probemain.py
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/probemain.py <br>
 Titelseite: 
-https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Titelseite.py
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Titelseite.py <br>
 Einführung: 
-https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Einf%C3%BChrung.py
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Einf%C3%BChrung.py <br>
 Forum: 
 https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Forumseite.py
 Hinzufügen: 
