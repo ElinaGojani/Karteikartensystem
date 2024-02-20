@@ -13,11 +13,11 @@ https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Titelseite.py <br
 Einführung: 
 https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Einf%C3%BChrung.py <br>
 Forum: 
-https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Forumseite.py
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Forumseite.py <br>
 Hinzufügen: 
-https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Hinzuf%C3%BCgen.py
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Hinzuf%C3%BCgen.py <br>
 Lernen: 
-https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Lernen.py
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Lernen.py <br>
 
 
 # Grundkonzept der Seite
