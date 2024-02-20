@@ -4,7 +4,6 @@ Mit unserem Projekt soll man erfolgreich Mathe in Form von gezielten Abfragen au
 
 # Programmseiten 
 **-Bei Ausführung der Main ("probemain.py") soll jede beliebe andere Seite ausführbar sein**
-
 **-Die File "probemain.py" selbst, hat keine Benutzeroberfläche**
 Main: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/probemain.py
 Titelseite: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Titelseite.py
