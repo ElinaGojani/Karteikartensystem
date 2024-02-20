@@ -1,5 +1,5 @@
 # Inhalt
-##Mit unserem Projekt soll man erfolgreich Mathe in Form von gezielten Abfragen auf Karteikarten lernen. Wir geben ein paar Fragen zum Thema "Lineare Algebra" vor, diese können jederzeit erweitert werden.   
+Mit unserem Projekt soll man erfolgreich Mathe in Form von gezielten Abfragen auf Karteikarten lernen. Wir geben ein paar Fragen zum Thema "Lineare Algebra" vor, diese können jederzeit erweitert werden.   
 
 
 # Programmseiten 
