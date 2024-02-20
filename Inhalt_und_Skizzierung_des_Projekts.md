@@ -6,12 +6,18 @@ Mit unserem Projekt soll man erfolgreich Mathe in Form von gezielten Abfragen au
 **-Bei Ausführung der Main ("probemain.py") soll jede beliebe andere Seite ausführbar sein** 
 
 **-Die File "probemain.py" selbst, hat keine Benutzeroberfläche**
-Main: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/probemain.py
-Titelseite: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Titelseite.py
-Einführung: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Einf%C3%BChrung.py
-Forum: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Forumseite.py
-Hinzufügen: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Hinzuf%C3%BCgen.py
-Lernen: https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Lernen.py
+Main:
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/probemain.py
+Titelseite: 
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Titelseite.py
+Einführung: 
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Einf%C3%BChrung.py
+Forum: 
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Forumseite.py
+Hinzufügen: 
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Hinzuf%C3%BCgen.py
+Lernen: 
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Lernen.py
 
 
 # Grundkonzept der Seite
