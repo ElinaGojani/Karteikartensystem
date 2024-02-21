@@ -10,6 +10,7 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 # Die Studierenden kennen die Grundelemente der prozeduralen Programmierung. (10)
 <!-- Siehe Kenntnisse in prozeduraler Programmierung: zutreffendes wählen und beweisen-->
 
+
 '''# Funktion beim Klicken
 def speichereDieKarte():
     text_key = entry_frage.get("1.0", tkinter.END)
@@ -31,7 +32,10 @@ def ClickForum():
     # Hier öffnen wir die "einführung.py" Datei mit subprocess
     subprocess.Popen(["python", "Forumseite.py"])
     speichern()
-    master.destroy()'''
+    master.destroy()''' <br>
+
+    ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d8e92b9c-5295-4d16-a88d-3b53d44bf5c4) <br>
+
 
 # Sie können die Syntax und Semantik von Python (10)
 <!-- Eine Stelle aus ihrem Programmieren wählen auf die sie besonders stolz sind und begründen -->
@@ -65,7 +69,14 @@ def ClickForum():
 
 # Sie können ein größeres Programm selbständig entwerfen, programmieren und auf Funktionsfähigkeit testen (Das Projekt im Team) (10)
 <!-- Anhand von commits zeigen, wie jeder im Projekt einen Beitrag geleistet hat -->
+Entwurf:
+https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Inhalt_und_Skizzierung_des_Projekts.md <br>
 
+Funktionsfähigkeit:
+
+
+Commits:
+https://github.com/ArthurFleck35x/Karteikartensystem
 
 # Sie kennen verschiedene Datenstrukturen und können diese exemplarisch anwenden. (10)
 <!-- Eine Stelle aus dem Projekt wählen auf die sie besonders stolz sind und begründen -->
@@ -131,15 +142,18 @@ Elina:
 
 # Sie können sich selbstständig in Entwicklungsumgebungen und Technologien einarbeiten und diese zur Programmierung und Fehlerbehebung einsetzen. (10)
 <!-- Which technology did you learn outside of the teacher given input -->
+ 
+
 
 <!-- Did you or your group get help from someone in the classroom (get a support message here from the person who helped you) -->
-
+siehe  "Die Studierenden können ihre Software erläutern und begründen"
 
 
 ## ÜBERGREIFENDE HANDLUNGSKOMPETENZ (30 Punkte)
 
 # Die Studierenden können eigenständig Problemstellungen der Praxis analysieren und zu deren Lösung Programme entwerfen (30)
 <!-- Which parts of your project are you proud of and why (describe, analyse, link) -->
+
 <!-- Where were the problems with your implementation, timeline, functionality, team management (describe, analyse, reflect from past to future, link if relevant) -->
 
 
