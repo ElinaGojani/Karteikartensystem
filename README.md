@@ -9,8 +9,8 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 
 # Die Studierenden kennen die Grundelemente der prozeduralen Programmierung. (10)
 <!-- Siehe Kenntnisse in prozeduraler Programmierung: zutreffendes wählen und beweisen-->
-'''
-# Funktion beim Klicken
+
+'''# Funktion beim Klicken
 def speichereDieKarte():
     text_key = entry_frage.get("1.0", tkinter.END)
     text_value = entry_antwort.get("1.0", tkinter.END)
