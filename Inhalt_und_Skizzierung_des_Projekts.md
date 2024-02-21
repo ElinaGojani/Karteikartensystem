@@ -55,7 +55,7 @@ Aussehen:<br>
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/ec9ae81d-7144-4aaf-80f7-715041fadcd9) <br>
 
 # Hinzufügen:
-**-per Klick auf den Button "Hinzufügen" werden Frage und Antwort als "value" und "key" gespeichert** <br>
+**-per Klick auf den Button "Hinzufügen" werden Frage und Antwort als "key" und "value" gespeichert** <br>
 **-mit Klick auf den Button "Zurück zum Forum" kommt man in das Forum** <br>
 Vorstellung:
 ![Unbenanntes Notizbuch (6)-6](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/ba8aa6cf-c9d2-44e7-bcd0-75ce3c45e5d2) <br>
