@@ -11,7 +11,8 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 <!-- Siehe Kenntnisse in prozeduraler Programmierung: zutreffendes wählen und beweisen-->
 
 
- ```# Funktion beim Klicken
+ ```python
+# Funktion beim Klicken
 def speichereDieKarte():
     text_key = entry_frage.get("1.0", tkinter.END)
     text_value = entry_antwort.get("1.0", tkinter.END)
@@ -32,7 +33,8 @@ def ClickForum():
     # Hier öffnen wir die "einführung.py" Datei mit subprocess
     subprocess.Popen(["python", "Forumseite.py"])
     speichern()
-    master.destroy()``` 
+    master.destroy()
+``` 
  <br>
 
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d8e92b9c-5295-4d16-a88d-3b53d44bf5c4) <br>
