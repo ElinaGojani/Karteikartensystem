@@ -42,7 +42,7 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 
 <!-- VSC --> <br>
 
-<!-- Copilot -->  <br>
+<!-- Copilot --> Copilot <br>
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d74098e9-a12b-4790-9b08-c5d406a26676) <br> 
 
 Nutzung von Copilot für Beispielcode, der abgeändert wiederverwendet wird.<br>
