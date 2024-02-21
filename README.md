@@ -9,7 +9,28 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 
 # Die Studierenden kennen die Grundelemente der prozeduralen Programmierung. (10)
 <!-- Siehe Kenntnisse in prozeduraler Programmierung: zutreffendes wählen und beweisen-->
+"""# Funktion beim Klicken
+def speichereDieKarte():
+    text_key = entry_frage.get("1.0", tkinter.END)
+    text_value = entry_antwort.get("1.0", tkinter.END)
+    text_dict[text_key] = text_value
+    entry_antwort.delete(1.0, tkinter.END)
+    entry_frage.delete(1.0, tkinter.END)
 
+
+def speichern():
+    with open("Datenbank.txt", "w") as file:
+        for key in text_dict.keys():
+            if key and text_dict[key]:
+                # schreibt key und value in "Datenbank.txt", wenn sie nicht leer sind
+                file.write(f"{key}{text_dict[key]}")
+
+
+def ClickForum():
+    # Hier öffnen wir die "einführung.py" Datei mit subprocess
+    subprocess.Popen(["python", "Forumseite.py"])
+    speichern()
+    master.destroy()"""
 
 # Sie können die Syntax und Semantik von Python (10)
 <!-- Eine Stelle aus ihrem Programmieren wählen auf die sie besonders stolz sind und begründen -->
