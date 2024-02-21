@@ -57,6 +57,11 @@ Nutzung von Copilot für Beispielcode, der abgeändert wiederverwendet wird.<br>
 
 # Die Studierenden können ihre Software erläutern und begründen. (5)
 <!-- Jeder in der Gruppe: You have helped someone else and taught something to a fellow student (get a support message from one person) -->
+Lea: <br> 
+Tom und Dustin haben mir Tipps gegeben bezüglich Struktur im Code und wahl des Moduls für die Datenbank. <br>
+Louis hat mir erklärt wie ich das Objekt in der Klasse selbst anwenden sollte. <br>
+Elina habe ich geholfen in das Projekt einzusteigen, in dem ich ihr Updates gegeben, die Planung und den Code für die Benutzeroberfläche übernommen habe, während sie sich um die Datenbank gekümmert hat. <br>
+Elina:
 
 # Sie können existierenden Code analysieren und beurteilen. (5)
 <!-- Pro Gruppe:You have critiqued another group project. Link to your critique here (another wiki page on your git) and link the project in the critique, use these evaluation criteria to critique the other project. Make sure they get a top grade after making the suggested changes -->
