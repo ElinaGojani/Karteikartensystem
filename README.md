@@ -10,9 +10,36 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 # Die Studierenden kennen die Grundelemente der prozeduralen Programmierung. (10)
 <!-- Siehe Kenntnisse in prozeduraler Programmierung: zutreffendes wählen und beweisen-->
 
+
 # Sie können die Syntax und Semantik von Python (10)
 <!-- Eine Stelle aus ihrem Programmieren wählen auf die sie besonders stolz sind und begründen -->
+'''class FragenAntwortenApp:
+    def __init__(self, master):
+        self.master = master
+        self.master.title("Fragen und Antworten")
+        self.frage_antwort_liste = self.lade_fragen_antworten()
+        self.aktuelle_frage_index = 0
 
+        self.master.configure(bg='olive')
+        self.master.iconbitmap("hand-page01.ico")
+        self.myFont = font.Font(size=10, weight="bold", family="Helvetica")
+
+        self.frage_label = tk.Label(master, text="Frage:", bg="olive")
+        self.frage_label.grid(row=0, column=0, padx=10, pady=10)
+
+        self.frage_text = tk.Label(master, text=self.frage_antwort_liste[self.aktuelle_frage_index], height=5, width=30,
+                                   bg='darkgrey', fg='white', borderwidth=2, relief="sunken")
+        self.frage_text.grid(row=0, column=1, padx=10, pady=10)
+
+        self.antwort_button = tk.Button(master, text="Antwort", bg='darkgrey', fg='white', height=2, width=25,
+                                        font=self.myFont, command=self.zeige_antwort)
+        self.antwort_button.grid(row=1, column=1, padx=10, pady=10)
+        self.ZumForumButton = tk.Button(master, text='Zum Forum', bg='darkgrey', fg='white', height=2, width=12,
+                                        font=self.myFont, command=self.ClickForum).grid(row=0, column=3)
+        self.naechste_button = tk.Button(master, text="Nächste Frage", bg='darkgrey', fg='white', height=2, width=12,
+                                         font=self.myFont, command=self.naechste_frage)
+        self.naechste_button.grid(row=1, column=3, padx=10, pady=10)
+'''
 
 # Sie können ein größeres Programm selbständig entwerfen, programmieren und auf Funktionsfähigkeit testen (Das Projekt im Team) (10)
 <!-- Anhand von commits zeigen, wie jeder im Projekt einen Beitrag geleistet hat -->
