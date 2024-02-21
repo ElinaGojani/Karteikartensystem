@@ -11,7 +11,7 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 <!-- Siehe Kenntnisse in prozeduraler Programmierung: zutreffendes wählen und beweisen-->
 
 
-```# Funktion beim Klicken
+``` # Funktion beim Klicken
 def speichereDieKarte():
     text_key = entry_frage.get("1.0", tkinter.END)
     text_value = entry_antwort.get("1.0", tkinter.END)
@@ -32,14 +32,14 @@ def ClickForum():
     # Hier öffnen wir die "einführung.py" Datei mit subprocess
     subprocess.Popen(["python", "Forumseite.py"])
     speichern()
-    master.destroy()``` <br>
+    master.destroy() ´´´ <br>
 
     ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d8e92b9c-5295-4d16-a88d-3b53d44bf5c4) <br>
 
 
 # Sie können die Syntax und Semantik von Python (10)
 <!-- Eine Stelle aus ihrem Programmieren wählen auf die sie besonders stolz sind und begründen -->
-'''class FragenAntwortenApp:
+    class FragenAntwortenApp:
     def __init__(self, master):
         self.master = master
         self.master.title("Fragen und Antworten")
@@ -65,7 +65,7 @@ def ClickForum():
         self.naechste_button = tk.Button(master, text="Nächste Frage", bg='darkgrey', fg='white', height=2, width=12,
                                          font=self.myFont, command=self.naechste_frage)
         self.naechste_button.grid(row=1, column=3, padx=10, pady=10)
-'''
+
 
 # Sie können ein größeres Programm selbständig entwerfen, programmieren und auf Funktionsfähigkeit testen (Das Projekt im Team) (10)
 <!-- Anhand von commits zeigen, wie jeder im Projekt einen Beitrag geleistet hat -->
