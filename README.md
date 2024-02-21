@@ -31,7 +31,22 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 <!-- zB -->
 <!-- GIT -->
 <!-- VSC -->
-<!-- Copilot -->
+<!-- Copilot -->  <br>
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d74098e9-a12b-4790-9b08-c5d406a26676) <br>
+
+"""def execute_titelseite():
+    #Führt Titelseite.py für 3 Sekunden aus und öffnet Forumseite.py.
+    try:
+        # Start Titelseite.py
+        titelseite_process = subprocess.Popen(["python", "Titelseite.py"])
+
+        # Wartet für 3 Sekunden
+        time.sleep(3)
+
+        # Schließt Titelseite.py
+        titelseite_process.terminate()
+"""
+
 <!-- other -->
 
 
