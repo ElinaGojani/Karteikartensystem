@@ -28,11 +28,14 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 # Die Studierenden können eine Entwicklungsumgebung verwenden um Programme zu erstellen (10)
 <!-- Beweise anbringen für Nutzen folgender Tools (können links, screenshots und screnncasts sein) -->
 
-<!-- zB -->
-<!-- GIT -->
+<!-- PyCharm -->
+<!-- GitHub -->
+<!--SQLite-->
 <!-- VSC -->
 <!-- Copilot -->  <br>
-![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d74098e9-a12b-4790-9b08-c5d406a26676) <br>
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d74098e9-a12b-4790-9b08-c5d406a26676) <br> 
+
+Nutzung von Copilot für Beispielcode, der abgeändert wiederverwendet wird.<br>
 
 """def execute_titelseite():
     #Führt Titelseite.py für 3 Sekunden aus und öffnet Forumseite.py.
