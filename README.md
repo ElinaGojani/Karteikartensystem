@@ -42,7 +42,8 @@ def ClickForum():
 
 # Sie können die Syntax und Semantik von Python (10)
 <!-- Eine Stelle aus ihrem Programmieren wählen auf die sie besonders stolz sind und begründen -->
-    python
+    ```python
+    
     class FragenAntwortenApp:
     def __init__(self, master):
         self.master = master
@@ -69,6 +70,7 @@ def ClickForum():
         self.naechste_button = tk.Button(master, text="Nächste Frage", bg='darkgrey', fg='white', height=2, width=12,
                                          font=self.myFont, command=self.naechste_frage)
         self.naechste_button.grid(row=1, column=3, padx=10, pady=10)
+        ```
         
 
 
@@ -126,7 +128,7 @@ def execute_titelseite():
 
         # Schließt Titelseite.py
         titelseite_process.terminate()
-```
+````
 
 <!-- other -->
 
