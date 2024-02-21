@@ -61,6 +61,7 @@ Lea: <br>
 Tom und Dustin haben mir Tipps gegeben bezüglich Struktur im Code und wahl des Moduls für die Datenbank. <br>
 Louis hat mir erklärt wie ich das Objekt in der Klasse selbst anwenden sollte. <br>
 Elina habe ich geholfen in das Projekt einzusteigen, in dem ich ihr Updates gegeben, die Planung und den Code für die Benutzeroberfläche übernommen habe, während sie sich um die Datenbank gekümmert hat. <br>
+<br>
 Elina:
 
 # Sie können existierenden Code analysieren und beurteilen. (5)
