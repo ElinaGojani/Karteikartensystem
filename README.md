@@ -28,19 +28,19 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 # Die Studierenden können eine Entwicklungsumgebung verwenden um Programme zu erstellen (10)
 <!-- Beweise anbringen für Nutzen folgender Tools (können links, screenshots und screnncasts sein) -->
 
-<!-- PyCharm --> <br>
+<!-- PyCharm --> PyCharm <br>
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/758208ea-4a25-4985-8fe5-93cb393c94fd)
 
 
-<!-- GitHub --> <br>
+<!-- GitHub --> GitHub <br>
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/01a26106-104c-4bbe-b4a9-186f74751738)
 
 
-<!--SQLite--> <br>
+<!--SQLite--> SQLite <br>
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/7f9a32c8-abac-48c5-997a-c6bffdd42762) <br>
 
 
 <!-- VSC --> <br>
-![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/7f9a32c8-abac-48c5-997a-c6bffdd42762) <br>
 
 <!-- Copilot -->  <br>
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d74098e9-a12b-4790-9b08-c5d406a26676) <br> 
