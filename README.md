@@ -37,9 +37,11 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 
 Nutzung von Copilot für Beispielcode, der abgeändert wiederverwendet wird.<br>
 
-"""
+'''
 def execute_titelseite():
-    #Führt Titelseite.py für 3 Sekunden aus und öffnet Forumseite.py.
+    '''
+    Führt Titelseite.py für 3 Sekunden aus und öffnet Forumseite.py.
+    '''
     try:
         # Start Titelseite.py
         titelseite_process = subprocess.Popen(["python", "Titelseite.py"])
@@ -48,7 +50,7 @@ def execute_titelseite():
         time.sleep(3)
 
         # Schließt Titelseite.py
-        titelseite_process.terminate()"""
+        titelseite_process.terminate()'''
 
 <!-- other -->
 
