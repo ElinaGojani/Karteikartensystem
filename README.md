@@ -47,8 +47,7 @@ Nutzung von Copilot für Beispielcode, der abgeändert wiederverwendet wird.<br>
         time.sleep(3)
 
         # Schließt Titelseite.py
-        titelseite_process.terminate()
-"""
+        titelseite_process.terminate()"""
 
 <!-- other -->
 
