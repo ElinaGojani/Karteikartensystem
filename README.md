@@ -31,8 +31,7 @@ def ClickForum():
     # Hier öffnen wir die "einführung.py" Datei mit subprocess
     subprocess.Popen(["python", "Forumseite.py"])
     speichern()
-    master.destroy()
-    '''
+    master.destroy()'''
 
 # Sie können die Syntax und Semantik von Python (10)
 <!-- Eine Stelle aus ihrem Programmieren wählen auf die sie besonders stolz sind und begründen -->
