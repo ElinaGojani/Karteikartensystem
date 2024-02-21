@@ -37,7 +37,8 @@ Alle Kriterien betreffen nur die Projektarbeit. Beweismaterial kommt aus dem Gru
 
 Nutzung von Copilot für Beispielcode, der abgeändert wiederverwendet wird.<br>
 
-"""def execute_titelseite():
+"""
+def execute_titelseite():
     #Führt Titelseite.py für 3 Sekunden aus und öffnet Forumseite.py.
     try:
         # Start Titelseite.py
@@ -69,6 +70,7 @@ Elina:
 
 # Sie können sich selbstständig in Entwicklungsumgebungen und Technologien einarbeiten und diese zur Programmierung und Fehlerbehebung einsetzen. (10)
 <!-- Which technology did you learn outside of the teacher given input -->
+
 <!-- Did you or your group get help from someone in the classroom (get a support message here from the person who helped you) -->
 
 
