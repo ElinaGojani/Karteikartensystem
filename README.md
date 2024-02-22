@@ -80,6 +80,15 @@ Entwurf:
 https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Inhalt_und_Skizzierung_des_Projekts.md <br>
 
 Funktionsfähigkeit:
+- Schriftarten definieren
+- Tkinter Bibliothek importieren (Module importieren mithilfe von Funktionen)
+- Hintergrundfarbe eines Fensters setzen
+- Titel eines Fenster setzen
+- Funktionsdefinitionen z.B. für die Buttons
+- Erstellung und Plazierung GUI Elemente
+- Hauptfenster erstellen
+- Plazierung GUI Elemente im Hauptfenster
+- Funktionsdefinitionen (ClickEinfuerung(), ClickLernen(), ClickHinzufügen(), Beenden())
 
 
 Commits:
@@ -143,7 +152,8 @@ Tom und Dustin haben mir Tipps gegeben bezüglich Struktur im Code und wahl des 
 Louis hat mir erklärt wie ich das Objekt in der Klasse selbst anwenden sollte. <br>
 Elina habe ich geholfen in das Projekt einzusteigen, in dem ich ihr Updates gegeben, die Planung und den Code für die Benutzeroberfläche übernommen habe, während sie sich um die Datenbank gekümmert hat. <br>
 <br>
-Elina:
+Elina: 
+Ich habe mich um die sammlung der Daten gekümmert. Dafür bin ich die Vorlesungen in Mathe durchgegangen. Lea hat die AUfgabe übernommen, dass die Daten anschließend eingelesen werden können. Sie hat mir immer wieder updates gegeben, amit wir beide auf dem gleichen Stand sind. Ich habe mich etwas mit Sqlite beschäftigt, damit hatte ich vorher noch nicht gearbeitet. Ich habe noch an der Oberfläche gearbeitet. Dort habe ich bisschen mit den Farben experimentiert und geschaut was man noch verbessern könnte wie z.B. die Schriftart, Größe der Fenster.
 
 # Sie können existierenden Code analysieren und beurteilen. (5)
 <!-- Pro Gruppe:You have critiqued another group project. Link to your critique here (another wiki page on your git) and link the project in the critique, use these evaluation criteria to critique the other project. Make sure they get a top grade after making the suggested changes -->
