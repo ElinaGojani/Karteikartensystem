@@ -71,7 +71,14 @@ def ClickForum():
                                          font=self.myFont, command=self.naechste_frage)
         self.naechste_button.grid(row=1, column=3, padx=10, pady=10)
         ```
- Der Code oben beinhaltet eine mit der Methode __init__ kreierte Klasse (class FragenAntwortenApp), womit ich mich erst im Zuge dieses Projektes beschäftigt habe. In "class FragenAntwortenApp"       
+ Der Code oben beinhaltet eine mit der Methode "__init__" kreierte Klasse (class FragenAntwortenApp), womit ich mich erst im Zuge dieses Projektes beschäftigt habe.
+ 
+ In "class FragenAntwortenApp"  sind Eigenschaften festgelegt zum Aussehen, wie Besipielsweise
+ ```
+# Stil und Größe der Schrift 
+self.myFont = font.Font(size=10, weight="bold", family="Helvetica")
+```
+ 
 
 
 # Sie können ein größeres Programm selbständig entwerfen, programmieren und auf Funktionsfähigkeit testen (Das Projekt im Team) (10)
