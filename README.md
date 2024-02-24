@@ -80,10 +80,9 @@ Entwurf:
 https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Inhalt_und_Skizzierung_des_Projekts.md <br>
 
 Funktionsfähigkeit: 
-Hier ist ein Versuch mit Json zu arbeiten. Die Abfragen sollen in Form eines Dictionarys ausgegeben werden. Aufgrund eines Syntaxfehlers läuft der Code nicht. Das Problem wurde mit ChatGPT 3.5 gelöst. (Siehe Screenshot) <a (Siehe Screenshot)="![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/3e500754-f2c7-4dba-be30-0ff34068ce01)">Link-Text</a>
- 
+Hier ist ein Versuch mit Json zu arbeiten. Die Abfragen sollen in Form eines Dictionarys ausgegeben werden. Aufgrund eines Syntaxfehlers läuft der Code nicht. Das Problem wurde mit ChatGPT 3.5 gelöst. (Siehe Screenshot ChatGPT 3.5) <br>
 
-![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/705f3258-9148-4ed6-8224-ccaf7b3575bb)
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/705f3258-9148-4ed6-8224-ccaf7b3575bb) <br>
 
 
 Commits:
@@ -172,7 +171,23 @@ siehe  "Die Studierenden können ihre Software erläutern und begründen"
 <!-- Which parts of your project are you proud of and why (describe, analyse, link) -->
 
 <!-- Where were the problems with your implementation, timeline, functionality, team management (describe, analyse, reflect from past to future, link if relevant) -->
+Lea:  <br>
+-Absoluter Pfad funktioniert nicht beim integrieren eines .png (selbst gemaltes Logo) und eines .ico (Ikon) <br>
+Hierbei wurde zur Lösung des Problems unter anderem das Dateiformat abgeändert zu .jpg um zu schauen ob es damit klappt. Da dies auch nicht Mal statt absoluten Pfad noch mit dem Name der Datei funktioniert hatte, wurde recherchiert. Nach einer Ausbesserung am Code konnte das Ikon hinzugefügt werden. Das Logo sah nicht "angemessen" aus, weshalb wir es im Code und auch in der Skizzierung unseres Programmes weg lassen. <br>
+Code um das Ikon hinzuzufügen:
+```
+# Ikon hinzufügen 
+einfuehrungsseite.iconbitmap("hand-page01.ico")
 
+```
+
+ <br>
+-fehlende Markdown Kenntnisse in Bezug auf die Formatierung, Bilder auf Github einfügen  <br>
+Durch ausprobieren und nachlesen konnte mit den Problemen umgegangen werden. <br>
+ <br>
+-Datenbank: 
+
+#Geschrieben von Lea
 
 
 ## Kenntnisse in prozeduraler Programmierung:
