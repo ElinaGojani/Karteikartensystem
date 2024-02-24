@@ -76,16 +76,16 @@ def ClickForum():
 
 # Sie können ein größeres Programm selbständig entwerfen, programmieren und auf Funktionsfähigkeit testen (Das Projekt im Team) (10)
 <!-- Anhand von commits zeigen, wie jeder im Projekt einen Beitrag geleistet hat -->
-Entwurf:
+Entwurf: <br>
 https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Inhalt_und_Skizzierung_des_Projekts.md <br>
-
-Funktionsfähigkeit: 
+<br>
+Funktionsfähigkeit: <br>
 Hier ist ein Versuch mit Json zu arbeiten. Die Abfragen sollen in Form eines Dictionarys ausgegeben werden. Aufgrund eines Syntaxfehlers läuft der Code nicht. Das Problem wurde mit ChatGPT 3.5 gelöst. (Siehe Screenshot ChatGPT 3.5) <br>
-
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/705f3258-9148-4ed6-8224-ccaf7b3575bb) <br>
-
-
-Commits:
+<br>
+Commits:<br>
+Daten für die Karteikarten, Datenbank, hilfestellung Grading (Elina)
+Planung (Struktur, Ablauf), Programmcode (auch Benutzeroberfläche), Grading, Skizzierung (Lea)
 https://github.com/ArthurFleck35x/Karteikartensystem
 
 # Sie kennen verschiedene Datenstrukturen und können diese exemplarisch anwenden. (10)
