@@ -78,7 +78,12 @@ def ClickForum():
 # Stil und Größe der Schrift 
 self.myFont = font.Font(size=10, weight="bold", family="Helvetica")
 ```
- 
+ oder die 
+```
+# Hintergrundfarbe
+self.master.configure(bg='olive')
+```
+ . 
 
 
 # Sie können ein größeres Programm selbständig entwerfen, programmieren und auf Funktionsfähigkeit testen (Das Projekt im Team) (10)
