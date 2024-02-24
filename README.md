@@ -38,7 +38,7 @@ def ClickForum():
  <br>
 
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d8e92b9c-5295-4d16-a88d-3b53d44bf5c4) <br>
-
+*weitere Erläuterung erfolgt unten (siehe Grundelemente der prozeduralen Programmierung)
 
 # Sie können die Syntax und Semantik von Python (10)
 <!-- Eine Stelle aus ihrem Programmieren wählen auf die sie besonders stolz sind und begründen -->
