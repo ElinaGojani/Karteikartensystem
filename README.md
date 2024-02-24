@@ -151,10 +151,6 @@ def execute_titelseite():
         titelseite_process.terminate()
 ````
 
-<!-- other -->
-
-
-
 ## PERSONALE UND SOZIALE KOMPETENZ (20 Punkte)
 
 # Die Studierenden können ihre Software erläutern und begründen. (5)
@@ -175,18 +171,47 @@ Elina:
 
 
 <!-- Did you or your group get help from someone in the classroom (get a support message here from the person who helped you) -->
-siehe  "Die Studierenden können ihre Software erläutern und begründen"
+(siehe "Die Studierenden können ihre Software erläutern und begründen")
 
 
 ## ÜBERGREIFENDE HANDLUNGSKOMPETENZ (30 Punkte)
 
 # Die Studierenden können eigenständig Problemstellungen der Praxis analysieren und zu deren Lösung Programme entwerfen (30)
 <!-- Which parts of your project are you proud of and why (describe, analyse, link) -->
+Wir sind stolz das der Ablauf des Quellcodes beziehungsweise der Wechsel zwischen den Files läuft. <br>
+Die Titelseite schließt sich nach 3 Sekunden für den Benutzer automatisch und öffnet das "Forum". Ab dem "Forum" geschieht jeder Seitenwechsel per Mausklick. 
+Wie sich die Titelseite öffnet und schließt sieht man im Code. 
+```
+def execute_titelseite():
+    """
+    Führt Titelseite.py für 3 Sekunden aus und öffnet Forumseite.py.
+    """
+    try:
+        # Start Titelseite.py
+        titelseite_process = subprocess.Popen(["python", "Titelseite.py"])
 
+        # Wartet für 3 Sekunden
+        time.sleep(3)
+
+        # Schließt Titelseite.py
+        titelseite_process.terminate()
+
+        # Öffnet Forumseite.py
+        subprocess.Popen(["python", "Forumseite.py"])
+
+    # Ausgabe zur Fehlerbehebung
+    except FileNotFoundError:
+        print("Error: Make sure Titelseite.py and Forumseite.py exist in the same directory.")
+```
+<br>
+Führt man die "probemain.py" aus so öffnet sich die Titelseit mit der Funktion "execute_titelseite()"
 <!-- Where were the problems with your implementation, timeline, functionality, team management (describe, analyse, reflect from past to future, link if relevant) -->
 Lea:  <br>
 -Absoluter Pfad funktioniert nicht beim integrieren eines .png (selbst gemaltes Logo) und eines .ico (Ikon) <br>
 Hierbei wurde zur Lösung des Problems unter anderem das Dateiformat abgeändert zu .jpg um zu schauen ob es damit klappt. Da dies auch nicht Mal statt absoluten Pfad noch mit dem Name der Datei funktioniert hatte, wurde recherchiert. Nach einer Ausbesserung am Code konnte das Ikon hinzugefügt werden. Das Logo sah nicht "angemessen" aus, weshalb wir es im Code und auch in der Skizzierung unseres Programmes weg lassen. <br>
+Elina: <br>
+-
+
 Code um das Ikon hinzuzufügen:
 ```
 # Ikon hinzufügen 
