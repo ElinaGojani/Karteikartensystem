@@ -229,14 +229,23 @@ Durch ausprobieren und nachlesen konnte mit den Problemen umgegangen werden. <br
 
 
 ## Kenntnisse in prozeduraler Programmierung:
-
+(für den Code siehe Die Studierenden kennen die Grundelemente der prozeduralen Programmierung )
 # - Algorithmenbeschreibung
+-Unser Algorithmus ist eine GUI-Anwendung, mit der wir ähnlich wie dem Prinzip von Karteikarten Abfragen erstellt haben. Die Frage wird angezeigt, man beantwortet die Frage und nach einem Klick wird die Anwort angezeigt. Hätte man eine Karteikarte in der Hand so würde man diese umdrehen um die Anwort sehen zu können. <br>
 
 # - Datentypen
+-string  <br>
+-integer  <br>
+-list  <br>
 
 # - E/A-Operationen und Dateiverarbeitung
+-open  <br>
 
 # - Operatoren
+-=
+-+
+- <
+
 
 # - Kontrollstrukturen
 
