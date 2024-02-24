@@ -80,7 +80,9 @@ Entwurf:
 https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Inhalt_und_Skizzierung_des_Projekts.md <br>
 
 Funktionsfähigkeit: 
-Hier ist ein Versuch mit Json zu arbeiten. Die Abfragen sollen in Form eines Dictionarys ausgegeben werden. Aufgrund eines Syntaxfehlers läuft der Code nicht. Das Problem wurde mit ChatGPT 3.5 gelöst. <a name="pookie"></a>
+Hier ist ein Versuch mit Json zu arbeiten. Die Abfragen sollen in Form eines Dictionarys ausgegeben werden. Aufgrund eines Syntaxfehlers läuft der Code nicht. Das Problem wurde mit ChatGPT 3.5 gelöst. (Siehe Screenshot)<a href="![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/3e500754-f2c7-4dba-be30-0ff34068ce01)">Link-Text</a>
+ 
+
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/705f3258-9148-4ed6-8224-ccaf7b3575bb)
 
 
@@ -113,7 +115,7 @@ https://github.com/ArthurFleck35x/Karteikartensystem
 
 
 <!-- ChatGPT 3.5 --> <br>
-<a name="pookie"></a>
+
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/3e500754-f2c7-4dba-be30-0ff34068ce01)
 
 <!-- Copilot --> Copilot <br>
