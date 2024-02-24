@@ -80,6 +80,7 @@ Entwurf:
 https://github.com/ArthurFleck35x/Karteikartensystem/blob/main/Inhalt_und_Skizzierung_des_Projekts.md <br>
 
 Funktionsfähigkeit:
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/705f3258-9148-4ed6-8224-ccaf7b3575bb)
 
 
 Commits:
