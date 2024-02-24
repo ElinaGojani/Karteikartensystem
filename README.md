@@ -161,7 +161,7 @@ Louis hat mir erklärt wie ich das Objekt in der Klasse selbst anwenden sollte. 
 Elina habe ich geholfen in das Projekt einzusteigen, in dem ich ihr Updates gegeben, die Planung und den Code für die Benutzeroberfläche übernommen habe, während sie sich um die Datenbank gekümmert hat. <br>
 <br>
 Elina:
-
+Ich habe mich um die Sammlung der Daten gekümmert. Dafür habe ich die Vorlesungen von Mathe benutzt und in ein Word Dokument gepackt. Lea hat mir dabei geholfen mich mal mit Sqlite auseinanderzusetzen. Sie hat sich anschließend um die Datenbank gekümmert, dass die Daten auch eingelesen werden können. In der zwischenzeit habe ich mich etwas mit der Oberfläche auseinandergesetzt. Dort habe ich die Farben mal geändert und versucht so anzupassen, dass es schön aussieht. Das arbeiten sowohl mit der Oberfläche als auch mit den Datenbank war völlig neu für mich und eine Herausforderung. Lea hat mich bei allem gut unterstützt und mir immer wieder updates gegeben wie der Stand ist. 
 # Sie können existierenden Code analysieren und beurteilen. (5)
 <!-- Pro Gruppe:You have critiqued another group project. Link to your critique here (another wiki page on your git) and link the project in the critique, use these evaluation criteria to critique the other project. Make sure they get a top grade after making the suggested changes -->
 
