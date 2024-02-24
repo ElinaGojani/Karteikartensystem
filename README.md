@@ -207,10 +207,10 @@ def execute_titelseite():
 Führt man die "probemain.py" aus so öffnet sich die Titelseit mit der Funktion "execute_titelseite()"
 <!-- Where were the problems with your implementation, timeline, functionality, team management (describe, analyse, reflect from past to future, link if relevant) -->
 Lea:  <br>
--Absoluter Pfad funktioniert nicht beim integrieren eines .png (selbst gemaltes Logo) und eines .ico (Ikon) <br>
+- Absoluter Pfad funktioniert nicht beim integrieren eines .png (selbst gemaltes Logo) und eines .ico (Ikon) <br>
 Hierbei wurde zur Lösung des Problems unter anderem das Dateiformat abgeändert zu .jpg um zu schauen ob es damit klappt. Da dies auch nicht Mal statt absoluten Pfad noch mit dem Name der Datei funktioniert hatte, wurde recherchiert. Nach einer Ausbesserung am Code konnte das Ikon hinzugefügt werden. Das Logo sah nicht "angemessen" aus, weshalb wir es im Code und auch in der Skizzierung unseres Programmes weg lassen. <br>
 Elina: <br>
--
+- 
 
 Code um das Ikon hinzuzufügen:
 ```
@@ -220,10 +220,10 @@ einfuehrungsseite.iconbitmap("hand-page01.ico")
 ```
 
  <br>
--fehlende Markdown Kenntnisse in Bezug auf die Formatierung, Bilder auf Github einfügen  <br>
+- fehlende Markdown Kenntnisse in Bezug auf die Formatierung, Bilder auf Github einfügen  <br>
 Durch ausprobieren und nachlesen konnte mit den Problemen umgegangen werden. <br>
  <br>
--Datenbank: 
+- Datenbank: 
 
 #Geschrieben von Lea
 
