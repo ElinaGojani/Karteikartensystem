@@ -122,11 +122,11 @@ https://github.com/ArthurFleck35x/Karteikartensystem
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/7f9a32c8-abac-48c5-997a-c6bffdd42762) <br>
 
 
-<!-- VSC --> <br>
+<!-- VSC --> Visual Studio Code <br>
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/345d8c38-2c4d-47da-8a39-f70388dc4bec) <br>
 
 
-<!-- ChatGPT 3.5 --> <br>
+<!-- ChatGPT 3.5 -->ChatGPT 3.5 <br>
 
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/3e500754-f2c7-4dba-be30-0ff34068ce01) <br>
 
