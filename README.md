@@ -111,11 +111,11 @@ https://github.com/ArthurFleck35x/Karteikartensystem
 <!-- Beweise anbringen für Nutzen folgender Tools (können links, screenshots und screnncasts sein) -->
 
 <!-- PyCharm --> PyCharm <br>
-![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/758208ea-4a25-4985-8fe5-93cb393c94fd)
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/758208ea-4a25-4985-8fe5-93cb393c94fd) <br>
 
 
 <!-- GitHub --> GitHub <br>
-![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/01a26106-104c-4bbe-b4a9-186f74751738)
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/01a26106-104c-4bbe-b4a9-186f74751738) <br>
 
 
 <!--SQLite--> SQLite <br>
@@ -123,11 +123,12 @@ https://github.com/ArthurFleck35x/Karteikartensystem
 
 
 <!-- VSC --> <br>
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/345d8c38-2c4d-47da-8a39-f70388dc4bec) <br>
 
 
 <!-- ChatGPT 3.5 --> <br>
 
-![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/3e500754-f2c7-4dba-be30-0ff34068ce01)
+![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/3e500754-f2c7-4dba-be30-0ff34068ce01) <br>
 
 <!-- Copilot --> Copilot <br>
 ![image](https://github.com/ArthurFleck35x/Karteikartensystem/assets/152798623/d74098e9-a12b-4790-9b08-c5d406a26676) <br> 
